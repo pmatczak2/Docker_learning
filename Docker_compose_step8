@@ -1,0 +1,8 @@
+Docker Compose
+
+ Docker Compose is another utility. Like we have docker engine which is to run our container.
+And when we install docker engine, we get docker engine, docker CLI. But Docker Compose is a separate utility that you have to install.
+
+Okay, in short, docker Compose is a tool to run multicontainers together. Our project containers needs to talk to each other. Like we had multiple VMs or multiple EC, two instances or multiple AWS services that talk to each other in the same network.
+
+
